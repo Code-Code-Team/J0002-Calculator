@@ -21,7 +21,7 @@ Project aims to create a calculator.
 
 ## Expected Outcome
 
-![Project 002 Snapshot](Project_002_.png)
+![Project 002 Snapshot](./images/Screen%20Shot%202020-10-16%20at%2015.04.14.png)
 
 ## Objective
 
