@@ -25,7 +25,7 @@ Project aims to create a calculator.
 
 ## Objective
 
-Build a Calculator that is functionally similar to this: [Calculator]( https://codepen.io/AaronClarusway/full/KKzRdvo)
+Build a Calculator that is functionally similar to this: [Calculator](https://code-code-team.github.io/P0002J-Calculator/)
 
 ### At the end of the project, following topics are to be covered;
 
